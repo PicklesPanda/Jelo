@@ -4,3 +4,7 @@ nav {
 div {
   float: left;
 }
+#introduction {
+  text-align: center;
+  font-style: italic;
+}
