@@ -13,7 +13,7 @@ button {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
+  font-size: 16px;
   transition-duration: 0.35s;
   cursor: pointer;
 }
