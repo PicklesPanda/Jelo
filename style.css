@@ -2,7 +2,9 @@ html {
   font-family: "Lucida Sans", Calibri, Arial, sans-serif;
 }
 div {
-  float: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 h2 {
   margin: 10;
