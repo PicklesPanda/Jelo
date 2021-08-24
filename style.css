@@ -7,6 +7,9 @@ div {
 h2 {
   margin: 10;
 }
+p {
+  font-size: 0.8em;
+}
 button {
   border: none;
   padding: 15px 30px;
