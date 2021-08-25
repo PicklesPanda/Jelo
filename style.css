@@ -3,7 +3,6 @@ div {
   align-items: center;
   justify-content: center;
 }
-
 iframe {
   background-color: #5CB6C1;
   height: 100px;
@@ -11,7 +10,11 @@ iframe {
   border: none;
   scrolling: no;
 }
-h2, h3 {
+h2 {
+  margin: 10;
+  font-family: Bookman, "Trebuchet MS", Tahoma, Arial;
+}
+h3 {
   margin: 10;
   font-family: Bookman, "Trebuchet MS", Tahoma, Arial;
 }
